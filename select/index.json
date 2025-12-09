@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Doggy Girls",
+  "base_artist": "REIRIE",
+  "createdAt": "2025-12-09T20:56:47.054156Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Doggy Girls",
+      "artist": "REIRIE",
+      "has_synced": false,
+      "path": "select/pl_01_Doggy_Girls_REIRIE.txt"
+    }
+  ]
+}
